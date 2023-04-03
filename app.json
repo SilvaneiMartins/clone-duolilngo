@@ -1,12 +1,36 @@
 {
-  "name": "SamLinguo",
-  "displayName": "SamLinguo",
-  "expo": {
     "name": "SamLinguo",
-    "slug": "SamLinguo",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+    "displayName": "SamLinguo",
+    "expo": {
+        "name": "SamLinguo",
+        "slug": "SamLinguo",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "cover",
+            "backgroundColor": "#59CB00"
+        },
+        "androidNavigationBar": {
+            "barStyle": "light-content",
+            "backgroundColor": "#141F25"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/adaptive-icon.png",
+                "backgroundColor": "#59CB00"
+            }
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        }
+    }
 }
