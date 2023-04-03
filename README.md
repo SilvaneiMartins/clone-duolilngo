@@ -26,7 +26,7 @@ O projeto foi criado com o intuito de aprender e compartilhar conhecimento com a
 Inscreva-se agora em nosso canal e comece a aprender hoje!"
 
 # Link do projeto Demo no YouTube;
-[![Demo do Meu Projeto no YouTube](https://i.imgur.com/MMa8Cc4.png)](https://youtu.be/LqjNP6J7090)
+[![Demo do Meu Projeto no YouTube](https://i.imgur.com/MMa8Cc4.png)](https://youtu.be/44OMdzfgoxQ)
 
 # Tarefas;
 
@@ -38,10 +38,10 @@ Clone o projeto em sua máquina, rode o comando `yarn` e em seguida `yarn androi
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/SilvaneiMartins/dividir-churrasco
+$ git clone https://github.com/SilvaneiMartins/clone-duolilngo
 
 # Acessar a pasta do projeto
-$ cd dividir-churrasco
+$ cd clone-duolilngo
 
 # Instalar as dependências
 $ yarn
@@ -59,7 +59,7 @@ $ yarn ios
 
 # Licença
 
-Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/dividir-churrasco/blob/master/LICENSE) para maiores informações.
+Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/clone-duolilngo/blob/master/LICENSE) para maiores informações.
 
 # Tecnologias usada no projeto
 
@@ -68,10 +68,6 @@ Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acess
 -   [REACT-NAVIGATION](https://reactnavigation.org/)
 -   [STYLED-COMPONENTS](https://styled-components.com)
 
-# Credito
-
-O template encontrei no dribbble.
-Site da Dribbble: https://dribbble.com/
 
 # Desenvolvedor
 
